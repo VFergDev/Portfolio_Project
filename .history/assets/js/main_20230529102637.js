@@ -241,7 +241,7 @@
         }
       }
     });
-  
+  9
     /**
      * Animation on scroll
      */
@@ -261,3 +261,4 @@
   
   })()
 
+  const submitContactForm = 
